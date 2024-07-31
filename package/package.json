@@ -1,0 +1,22 @@
+{
+  "name": "meetincode",
+  "version": "1.0.0",
+  "description": "just a beginning to npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/MeetInCode/MY_NPM_package.git)"
+  },
+  "keywords": [
+    "personal",
+    "info"
+  ],
+  "author": "meet mehta",
+  "license": "ISC",
+  "dependencies": {
+    "meetincode": "file:"
+  }
+}
