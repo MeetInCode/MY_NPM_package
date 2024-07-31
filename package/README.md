@@ -9,7 +9,6 @@ To install the package, use npm:
 ```sh
 npm install meetincode
 
-```
 
 ## Usage
 
