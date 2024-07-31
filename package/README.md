@@ -6,9 +6,10 @@
 
 To install the package, use npm:
 
-````sh
+```sh
 npm install meetincode
 
+```
 
 ## Usage
 
@@ -20,4 +21,4 @@ const meetincode = require('meetincode');
 
 // Call the hello method
 meetincode.hello();
-````
+```

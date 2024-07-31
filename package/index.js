@@ -1,6 +1,6 @@
 // index.js
 function hello() {
-  console.log("hello world");
+  console.log("hello from meet");
 }
 
 module.exports = {
